@@ -22,14 +22,6 @@ let ObjetoEstudiante3 = {
     estado: "Reprobado",
 }
 
-let ObjetoEstudiante4 = {
-    id:"08755327",
-    nombre: 'Carlos Pineda',
-    nota: 59,
-    estado: "Reprobado",
-
-}
-
 let arrayEst = [
      {
          id: '9595803', nombre: 'Pedro', nota: 89, estado: "Aprobado"
